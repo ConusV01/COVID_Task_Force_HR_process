@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T15:11:07.188Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="TvVgqfOOIF5f7Fqqx8vn" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-24T15:13:22.314Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="48lNOA8LQUQFEL8ANpSl" version="14.5.1" type="github" pages="2">
   <diagram id="H6hc2A2YmxaIk5RcngUu" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="unYqQ4sQs9lyAD6SnD5Y-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="unYqQ4sQs9lyAD6SnD5Y-6" target="unYqQ4sQs9lyAD6SnD5Y-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Mail d&#39;info planif" link="https://github.com/ConusV01/COVID_Task_Force_HR_process/blob/main/29.03.2021_Vaccination-Staff-Planning_et_PEP_mobile.html" id="unYqQ4sQs9lyAD6SnD5Y-6">
+        <UserObject label="Mail d&#39;info planif" link="https://github.com/ConusV01/COVID_Task_Force_HR_process/blob/main/emails/29.03.2021_Vaccination-Staff-Planning_et_PEP_mobile.html" id="unYqQ4sQs9lyAD6SnD5Y-6">
           <mxCell style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
             <mxGeometry x="474" y="120" width="100" height="50" as="geometry" />
           </mxCell>
@@ -36,9 +36,9 @@
         <mxCell id="unYqQ4sQs9lyAD6SnD5Y-10" value="Mail d&#39;info / questions supp." style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="604" y="120" width="100" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="Test link page" link="data:page/id,8w6MF4V0zF3jsLt7BEvm" id="SbmYrBXEvCsR-Af8VUEr-1">
-          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rounded=1;" vertex="1" parent="1">
-            <mxGeometry x="200" y="320" width="50" height="100" as="geometry" />
+        <UserObject label="Test link" link="data:page/id,8w6MF4V0zF3jsLt7BEvm" id="G1-1Gr8O5dlWxiiMJWbm-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="244" y="230" width="100" height="100" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
