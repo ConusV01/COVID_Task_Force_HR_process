@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T14:39:42.977Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="CAVLzZnDguLn4G5odaz-" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T15:06:01.508Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="mrLzGf96X3vZlApUBniI" version="14.5.1" type="github" pages="2">
   <diagram id="H6hc2A2YmxaIk5RcngUu" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,8 +36,28 @@
         <mxCell id="unYqQ4sQs9lyAD6SnD5Y-10" value="Mail d&#39;info / questions supp." style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="604" y="120" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4Pralpoxxel_sudBEYzV-1" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="100" height="60" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8w6MF4V0zF3jsLt7BEvm" name="Validation horaire PEP">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Q8sG0y-CIpkuGwGZwybv-0" />
+        <mxCell id="Q8sG0y-CIpkuGwGZwybv-1" parent="Q8sG0y-CIpkuGwGZwybv-0" />
+        <mxCell id="eLfeEsBgVaEi-MXblC9Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Q8sG0y-CIpkuGwGZwybv-1" source="suFXwdksZpOPrFTcf5qU-0" target="eLfeEsBgVaEi-MXblC9Y-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suFXwdksZpOPrFTcf5qU-0" value="Plage horaire à checker" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="Q8sG0y-CIpkuGwGZwybv-1">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eLfeEsBgVaEi-MXblC9Y-0" value="transparent ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;" vertex="1" parent="Q8sG0y-CIpkuGwGZwybv-1">
+          <mxGeometry x="290" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eLfeEsBgVaEi-MXblC9Y-2" value="Oui" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Q8sG0y-CIpkuGwGZwybv-1">
+          <mxGeometry x="375" y="140" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eLfeEsBgVaEi-MXblC9Y-3" value="Non" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Q8sG0y-CIpkuGwGZwybv-1">
+          <mxGeometry x="340" y="220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
