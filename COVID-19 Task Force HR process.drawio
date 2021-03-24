@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T14:28:44.247Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ilVKB9l8_Zx_E8633qkh" version="14.5.1" type="github"><diagram id="H6hc2A2YmxaIk5RcngUu" name="Page-1">3Vhbb9owFP41aE9UuUBoH0uh26RVasXDyqNDDolXx3Ydp8B+/U4S50agZdKgMKmiPt9nJ+fic4GeexevvyoiowcRAOs5VrDuuZOe49gDx+llf1awKZDRzaAAQkUDs6kGZvQ3GNAyaEoDSFobtRBMU9kGF4JzWOgWRpQSq/a2pWDtt0oSQgeYLQjroj9poKMCvXZGNf4NaBiVb7a9m4KJSbnZWJJEJBCrBuROe+6dEkIXq3h9ByxzXumX4tz9HrZSTAHXhxxI+fz1aZA8JTdsczvxZnwynPeNsonelAZDgPYbUSgdiVBwwqY1Oq7RH0JI3GYj+Au03pjwkVQLhCIdM8PCmurnxnqOa+tqaKRJdlusUtiUAtdq89wUGqcysT6WS+W5wqLMjL2OMlAiUrWAd7xTXjiiQtDv7POqcGIegIgB9cFzChjR9K2tBzEXMqz21THDhQnbX4TQPPeNsNS86YHQPAkBP3wK/A142onzKqIaZpLkDlhh8rYjRvxEsFTDrVqYqOZoLQ1QTLQSL1VeoAvGSqQ8gMBsN5qB0rB+Pxhd55kD7sDUC1M/7DKdVnU22pbBokYmDq0j+Xt4vinzD6++c+DV3xO901x9p3P1e47HUN2xbEXIe02zKjuO0RrK+zoLwS3usKTGz9xxluF8obWI99IMltqQlFdkQBX2Hip4QTGtKirldIFNse/TgBYsxD4mSMmvhAr6vgLyUrBcqJiwWmVcheZ/blgiCd9p21Jw3U/y25Q9x3YayufcksSUbQoWj5FY5qTrZpmMDY/6inbwriLfebJQVObW5g9iBXtfaHZm2kpGOF2W6vgqu29bOp6r6qAvwL+P08cPVERY1thW5cSZSGZLrFCEMWAiVCRu18Fuj5GgKNYPUNsHH2tivKu9NbpX9pzCPVhUHfcYnct2tjqXvaNzXe/oXKNjda7r03auulvNG8xHw149381b493Rhz3vwI43+tRhzz5tDC9sYD80hrb1mUH09k7sXyhfisx207Yuc2YfjM5tZredS0ibdumzT5c2o4tIm9G+tKEBWkyXlHCdoJjPJP9H5lQZ8XmZY31YrPKZ2npNIcm+FGQRSFIpry41Bp51uuqFYv0DYM41fkZ1p38A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T14:39:42.977Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="CAVLzZnDguLn4G5odaz-" version="14.5.1" type="github">
+  <diagram id="H6hc2A2YmxaIk5RcngUu" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="unYqQ4sQs9lyAD6SnD5Y-1" target="unYqQ4sQs9lyAD6SnD5Y-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-1" value="Mail de bienvenu" style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-5" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="unYqQ4sQs9lyAD6SnD5Y-2" target="unYqQ4sQs9lyAD6SnD5Y-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-2" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Inscription &lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;planif&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;et &lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;PEP&lt;/span&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;arcSize=12;size=0.23;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="110" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="unYqQ4sQs9lyAD6SnD5Y-6" target="unYqQ4sQs9lyAD6SnD5Y-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="unYqQ4sQs9lyAD6SnD5Y-6" target="unYqQ4sQs9lyAD6SnD5Y-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Mail d&#39;info planif" link="https://github.com/ConusV01/COVID_Task_Force_HR_process/blob/main/29.03.2021_Vaccination-Staff-Planning_et_PEP_mobile.html" id="unYqQ4sQs9lyAD6SnD5Y-6">
+          <mxCell style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
+            <mxGeometry x="474" y="120" width="100" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-12" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="unYqQ4sQs9lyAD6SnD5Y-7" target="unYqQ4sQs9lyAD6SnD5Y-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-7" value="Mail identifiants PEP" style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="474" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="unYqQ4sQs9lyAD6SnD5Y-10" value="Mail d&#39;info / questions supp." style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="604" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Pralpoxxel_sudBEYzV-1" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
